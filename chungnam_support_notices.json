@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-28T02:58:10+09:00",
+  "collectedAt": "2026-11-28T16:00:50+09:00",
   "sources": [
     {
       "id": "s1",
@@ -130,9 +130,9 @@
     {
       "id": "s36",
       "name": "아산시청",
-      "status": "error",
-      "count": 0,
-      "message": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>"
+      "status": "ok",
+      "count": 10,
+      "message": "공고 추출 완료"
     },
     {
       "id": "s40",
@@ -361,61 +361,61 @@
   ],
   "items": [
     {
-      "id": "5462017acdb1d7e660976d94",
+      "id": "8312e4c69e006ff68eb102ac",
       "sourceId": "s44",
       "sourceName": "청양군청",
       "region": "청양",
       "title": "2023년 청양군 달라지는 제도 책자 게시",
-      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=x4sVgzzfMCHVCKogiZG7d6CGcqHsNLys1Z1UNNRCKxknUPHDjyD4wyaC19nAT2z9.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=178991&searchCnd=&searchWrd=",
-      "excerpt": "5 2023년 청양군 달라지는 제도 책자 게시 기획감사실 2023-05-10 26508",
+      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=qxdKV1GJqRsQUCnOhp469PSVNXKEa39xNWnoiYgLEDbMoompjiehM48FwTHVtmBF.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=178991&searchCnd=&searchWrd=",
+      "excerpt": "5 2023년 청양군 달라지는 제도 책자 게시 기획감사실 2023-05-10 26509",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "77a72a27da855af96c46c89a",
+      "id": "3b0eeddfd475239d2e4ddbe5",
       "sourceId": "s44",
       "sourceName": "청양군청",
       "region": "청양",
       "title": "2022년 청양군 달라지는 제도 책자 게시",
-      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=x4sVgzzfMCHVCKogiZG7d6CGcqHsNLys1Z1UNNRCKxknUPHDjyD4wyaC19nAT2z9.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=167289&searchCnd=&searchWrd=",
-      "excerpt": "4 2022년 청양군 달라지는 제도 책자 게시 기획감사실 2022-01-26 26549",
+      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=qxdKV1GJqRsQUCnOhp469PSVNXKEa39xNWnoiYgLEDbMoompjiehM48FwTHVtmBF.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=167289&searchCnd=&searchWrd=",
+      "excerpt": "4 2022년 청양군 달라지는 제도 책자 게시 기획감사실 2022-01-26 26551",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "0c1d5cf4b0421ef039a93512",
+      "id": "8f2223c1df250fc4636f9494",
       "sourceId": "s44",
       "sourceName": "청양군청",
       "region": "청양",
       "title": "청양군 일상회복 추진단 회의자료 게시",
-      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=x4sVgzzfMCHVCKogiZG7d6CGcqHsNLys1Z1UNNRCKxknUPHDjyD4wyaC19nAT2z9.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=165851&searchCnd=&searchWrd=",
-      "excerpt": "3 청양군 일상회복 추진단 회의자료 게시 기획감사실 2021-11-26 25757",
+      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=qxdKV1GJqRsQUCnOhp469PSVNXKEa39xNWnoiYgLEDbMoompjiehM48FwTHVtmBF.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=165851&searchCnd=&searchWrd=",
+      "excerpt": "3 청양군 일상회복 추진단 회의자료 게시 기획감사실 2021-11-26 25758",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "38fedef01a6e1bebc79bd963",
+      "id": "9b64d7e598120c8b2e50ab48",
       "sourceId": "s44",
       "sourceName": "청양군청",
       "region": "청양",
       "title": "정부 보조(지원)사업 2차분 게재",
-      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=x4sVgzzfMCHVCKogiZG7d6CGcqHsNLys1Z1UNNRCKxknUPHDjyD4wyaC19nAT2z9.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=162372&searchCnd=&searchWrd=",
-      "excerpt": "2 정부 보조(지원)사업 2차분 게재 기획감사실 2021-06-12 27687",
+      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=qxdKV1GJqRsQUCnOhp469PSVNXKEa39xNWnoiYgLEDbMoompjiehM48FwTHVtmBF.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=162372&searchCnd=&searchWrd=",
+      "excerpt": "2 정부 보조(지원)사업 2차분 게재 기획감사실 2021-06-12 27688",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "f901e723e9a5fe02d034b401",
+      "id": "47ad61ce16737f21eaceef96",
       "sourceId": "s44",
       "sourceName": "청양군청",
       "region": "청양",
       "title": "정부 보조(지원)사업 1차분 게재",
-      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=x4sVgzzfMCHVCKogiZG7d6CGcqHsNLys1Z1UNNRCKxknUPHDjyD4wyaC19nAT2z9.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=161999&searchCnd=&searchWrd=",
-      "excerpt": "1 정부 보조(지원)사업 1차분 게재 기획감사실 2021-05-27 26858",
+      "url": "https://www.cheongyang.go.kr/cop/bbs/BBSMSTR_000000000870/selectBoardArticle.do;jsessionid=qxdKV1GJqRsQUCnOhp469PSVNXKEa39xNWnoiYgLEDbMoompjiehM48FwTHVtmBF.cy-was_servlet_engine1?kind=&mno=sitemap_02&nttId=161999&searchCnd=&searchWrd=",
+      "excerpt": "1 정부 보조(지원)사업 1차분 게재 기획감사실 2021-05-27 26859",
       "published": null,
       "starts": null,
       "deadline": null
@@ -541,121 +541,121 @@
       "deadline": null
     },
     {
-      "id": "e6f201297f5e1f52a1f115d2",
+      "id": "13f6977de6003bdd5183f4f5",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "2026년 OOO 종합감사 결과",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=198940&searchCnd=&searchWrd=",
-      "excerpt": "210 2026년 OOO 종합감사 결과 기획감사실 2026-10-18 373",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=198940&searchCnd=&searchWrd=",
+      "excerpt": "210 2026년 OOO 종합감사 결과 기획감사실 2026-10-18 378",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "0ebc6ebb12485623a8a44fff",
+      "id": "8886b07b9904eff7d7c3ef54",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "2026년 OOO 종합감사 결과",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=198939&searchCnd=&searchWrd=",
-      "excerpt": "209 2026년 OOO 종합감사 결과 기획감사실 2026-10-18 265",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=198939&searchCnd=&searchWrd=",
+      "excerpt": "209 2026년 OOO 종합감사 결과 기획감사실 2026-10-18 270",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "f86efb9b473f680abcd1e9d4",
+      "id": "18745ec586752b32d7927ef7",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "2026년 OOO 종합감사 결과",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=198938&searchCnd=&searchWrd=",
-      "excerpt": "208 2026년 OOO 종합감사 결과 기획감사실 2026-10-18 262",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=198938&searchCnd=&searchWrd=",
+      "excerpt": "208 2026년 OOO 종합감사 결과 기획감사실 2026-10-18 276",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "c6c7fe75203f4eab6190bfba",
+      "id": "6b7c1f6ae27924c56400d29f",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "2026년 OOO 종합감사 결과",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=196581&searchCnd=&searchWrd=",
-      "excerpt": "207 2026년 OOO 종합감사 결과 기획감사실 2026-06-09 1063",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=196581&searchCnd=&searchWrd=",
+      "excerpt": "207 2026년 OOO 종합감사 결과 기획감사실 2026-06-09 1074",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "218cbc311a488d6a08fd9fc9",
+      "id": "f1d94571b00d30d73f3cc8aa",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "2026년 OOO 종합감사 결과 공개",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=195915&searchCnd=&searchWrd=",
-      "excerpt": "206 2026년 OOO 종합감사 결과 공개 기획감사실 2026-05-07 1151",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=195915&searchCnd=&searchWrd=",
+      "excerpt": "206 2026년 OOO 종합감사 결과 공개 기획감사실 2026-05-07 1161",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "52755e2d37175be30372017a",
+      "id": "6683c06affd2686225b4a956",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "2026년 OOO 종합감사 결과 공개",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=195914&searchCnd=&searchWrd=",
-      "excerpt": "205 2026년 OOO 종합감사 결과 공개 기획감사실 2026-05-07 1029",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=195914&searchCnd=&searchWrd=",
+      "excerpt": "205 2026년 OOO 종합감사 결과 공개 기획감사실 2026-05-07 1040",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "4806bc971556488b69acf8f2",
+      "id": "e31fafc74146bdc5adb98e45",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "보령시 지속가능발전 기본계획",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=195202&searchCnd=&searchWrd=",
-      "excerpt": "204 보령시 지속가능발전 기본계획 기획감사실 2026-03-23 1165",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=195202&searchCnd=&searchWrd=",
+      "excerpt": "204 보령시 지속가능발전 기본계획 기획감사실 2026-03-23 1174",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "d8687ef1ad8c3d761bdb659f",
+      "id": "01eccc66ce6de6762b415f1b",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "000감사결과 공개",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=194517&searchCnd=&searchWrd=",
-      "excerpt": "203 000감사결과 공개 기획감사실 2026-02-11 1274",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=194517&searchCnd=&searchWrd=",
+      "excerpt": "203 000감사결과 공개 기획감사실 2026-02-11 1284",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "252422a214b6d0c349bfab29",
+      "id": "fb868d1fb208ad2b5cd8f9b6",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "000감사결과 공개",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=194243&searchCnd=&searchWrd=",
-      "excerpt": "202 000감사결과 공개 기획감사실 2026-01-29 1080",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=194243&searchCnd=&searchWrd=",
+      "excerpt": "202 000감사결과 공개 기획감사실 2026-01-29 1088",
       "published": null,
       "starts": null,
       "deadline": null
     },
     {
-      "id": "75bdf69f42db0e7c9fb51a55",
+      "id": "7b32ecf289335db31a1e8844",
       "sourceId": "s35",
       "sourceName": "보령시청",
       "region": "보령",
       "title": "000감사결과 공개",
-      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=CDI1mX1affTB1T9SiBgjcqn4vy9PP8I21NKZobT95FsS4tM6jBQ1XkUdYir2KzO1.brwas2_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=194103&searchCnd=&searchWrd=",
-      "excerpt": "201 000감사결과 공개 기획감사실 2026-01-21 1065",
+      "url": "https://www.brcn.go.kr/cop/bbs/BBSMSTR_000000000264/selectBoardArticle.do;jsessionid=UpLaoAHr8PWQD0K8hng7akOZCJu6lp1QNQa2wQLIa2qQEMQRjQ5qz2E25Vs4gRjo.brwas1_servlet_engine1?bbsId=BBSMSTR_000000000264&isExpired=N&kind=&mno=sitemap_02&moveBbsId=&nttId=194103&searchCnd=&searchWrd=",
+      "excerpt": "201 000감사결과 공개 기획감사실 2026-01-21 1073",
       "published": null,
       "starts": null,
       "deadline": null
@@ -679,7 +679,7 @@
       "region": "당진",
       "title": "2026년 상수관로 매설구간 아스콘덧씌우기 공사(대호지면 마중리)견적제출 안내 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58284",
-      "excerpt": "당진시 공고 제2026-2942호 공고(입찰공고) 2026년 상수관로 매설구간 아스콘덧씌우기 공사(대호지면 마중리)견적제출 안내 공고 수도과 2026-11-27 2026-11-27 ~ 2026-12-03 17",
+      "excerpt": "당진시 공고 제2026-2942호 공고(입찰공고) 2026년 상수관로 매설구간 아스콘덧씌우기 공사(대호지면 마중리)견적제출 안내 공고 수도과 2026-11-27 2026-11-27 ~ 2026-12-03 31",
       "published": null,
       "starts": null,
       "deadline": null
@@ -691,7 +691,7 @@
       "region": "당진",
       "title": "환경영향평가 대상사업 사업착공 공개 공고 (오봉지 자연환경보전이용시설 설치사업)",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58283",
-      "excerpt": "당진시 공고 제2026-2941호 공고(일반공고) 환경영향평가 대상사업 사업착공 공개 공고 (오봉지 자연환경보전이용시설 설치사업) 환경위생과 2026-11-27 2026-11-27 ~ 2026-12-11 18",
+      "excerpt": "당진시 공고 제2026-2941호 공고(일반공고) 환경영향평가 대상사업 사업착공 공개 공고 (오봉지 자연환경보전이용시설 설치사업) 환경위생과 2026-11-27 2026-11-27 ~ 2026-12-11 37",
       "published": null,
       "starts": null,
       "deadline": null
@@ -703,7 +703,7 @@
       "region": "당진",
       "title": "환경영향평가 대상사업 착공 공개[평택당진항 진입도로(신평~내항)건설공사] 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58282",
-      "excerpt": "당진시 공고 제2026-2940호 공고(일반공고) 환경영향평가 대상사업 착공 공개[평택당진항 진입도로(신평~내항)건설공사] 공고 환경위생과 2026-11-27 2026-11-27 ~ 2026-12-11 20",
+      "excerpt": "당진시 공고 제2026-2940호 공고(일반공고) 환경영향평가 대상사업 착공 공개[평택당진항 진입도로(신평~내항)건설공사] 공고 환경위생과 2026-11-27 2026-11-27 ~ 2026-12-11 36",
       "published": null,
       "starts": null,
       "deadline": null
@@ -715,7 +715,7 @@
       "region": "당진",
       "title": "「2027년 당진시 공공하수처리시설 수질원격감시시스템(TMS)유지관리 용역」제안서 평가 결과 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58278",
-      "excerpt": "당진시 고시 제2026-331호 고시 「2027년 당진시 공공하수처리시설 수질원격감시시스템(TMS)유지관리 용역」제안서 평가 결과 공고 수도과 2026-11-27 2026-11-27 ~ 2026-12-07 38",
+      "excerpt": "당진시 고시 제2026-331호 고시 「2027년 당진시 공공하수처리시설 수질원격감시시스템(TMS)유지관리 용역」제안서 평가 결과 공고 수도과 2026-11-27 2026-11-27 ~ 2026-12-07 51",
       "published": null,
       "starts": null,
       "deadline": null
@@ -727,7 +727,7 @@
       "region": "당진",
       "title": "당진정원문화지원센터 건립사업 2단계설계공모 작품심사 결과 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58277",
-      "excerpt": "당진시 공고 제2026-2937호 공고(일반공고) 당진정원문화지원센터 건립사업 2단계설계공모 작품심사 결과 공고 스마트도시과 2026-11-27 2026-11-27 ~ 2026-12-11 58",
+      "excerpt": "당진시 공고 제2026-2937호 공고(일반공고) 당진정원문화지원센터 건립사업 2단계설계공모 작품심사 결과 공고 스마트도시과 2026-11-27 2026-11-27 ~ 2026-12-11 84",
       "published": null,
       "starts": null,
       "deadline": null
@@ -739,7 +739,7 @@
       "region": "당진",
       "title": "2027년 읍내6통 건강증진센터 신체활동 및 영양 프로그램 운영 강사 채용 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58275",
-      "excerpt": "당진시 보건소 건강증진과 공고 제2026-7호 공고(채용공고) 2027년 읍내6통 건강증진센터 신체활동 및 영양 프로그램 운영 강사 채용 공고 건강증진과 2026-11-27 2026-11-27 ~ 2026-12-10 39",
+      "excerpt": "당진시 보건소 건강증진과 공고 제2026-7호 공고(채용공고) 2027년 읍내6통 건강증진센터 신체활동 및 영양 프로그램 운영 강사 채용 공고 건강증진과 2026-11-27 2026-11-27 ~ 2026-12-10 49",
       "published": null,
       "starts": null,
       "deadline": null
@@ -751,7 +751,7 @@
       "region": "당진",
       "title": "당진 도시관리계획(도로: 중로 1-308호 외 4개노선) 결정(변경) 및 지형도면 고시",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58266",
-      "excerpt": "당진시 고시 제2026-330호 고시 당진 도시관리계획(도로: 중로 1-308호 외 4개노선) 결정(변경) 및 지형도면 고시 스마트도시과 2026-11-27 34",
+      "excerpt": "당진시 고시 제2026-330호 고시 당진 도시관리계획(도로: 중로 1-308호 외 4개노선) 결정(변경) 및 지형도면 고시 스마트도시과 2026-11-27 48",
       "published": null,
       "starts": null,
       "deadline": null
@@ -763,7 +763,7 @@
       "region": "당진",
       "title": "자동자동차관리법 위반(미등록이륜차 운행) 과태료 고지서 반송분 공시송달 공고문",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58263",
-      "excerpt": "당진시 송악읍 공고 제2026-97호 공고(일반공고) 자동자동차관리법 위반(미등록이륜차 운행) 과태료 고지서 반송분 공시송달 공고문 송악읍 2026-11-27 2026-11-27 ~ 2026-12-11 26",
+      "excerpt": "당진시 송악읍 공고 제2026-97호 공고(일반공고) 자동자동차관리법 위반(미등록이륜차 운행) 과태료 고지서 반송분 공시송달 공고문 송악읍 2026-11-27 2026-11-27 ~ 2026-12-11 49",
       "published": null,
       "starts": null,
       "deadline": null
@@ -775,7 +775,7 @@
       "region": "당진",
       "title": "이륜차 의무보험(공제) 가입 촉구서 반송에 따른 공시송달",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58276",
-      "excerpt": "당진시 당진3동 공고 제2026-36호 공고(일반공고) 이륜차 의무보험(공제) 가입 촉구서 반송에 따른 공시송달 당진3동 2026-11-26 2026-11-26 ~ 2026-12-11 13",
+      "excerpt": "당진시 당진3동 공고 제2026-36호 공고(일반공고) 이륜차 의무보험(공제) 가입 촉구서 반송에 따른 공시송달 당진3동 2026-11-26 2026-11-26 ~ 2026-12-11 20",
       "published": null,
       "starts": null,
       "deadline": null
@@ -787,7 +787,7 @@
       "region": "당진",
       "title": "방치폐기물 행정대집행 용역(폐기물처리) 취소 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58274",
-      "excerpt": "당진시 공고 제2026-2936호 공고(입찰공고) 방치폐기물 행정대집행 용역(폐기물처리) 취소 공고 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 78",
+      "excerpt": "당진시 공고 제2026-2936호 공고(입찰공고) 방치폐기물 행정대집행 용역(폐기물처리) 취소 공고 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 83",
       "published": null,
       "starts": null,
       "deadline": null
@@ -799,7 +799,7 @@
       "region": "당진",
       "title": "송악3배수지 설치공사(전기 및 계측제어)전자입찰 공고(긴급)",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58273",
-      "excerpt": "당진시 공고 제2026-2935호 공고(입찰공고) 송악3배수지 설치공사(전기 및 계측제어)전자입찰 공고(긴급) 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 50",
+      "excerpt": "당진시 공고 제2026-2935호 공고(입찰공고) 송악3배수지 설치공사(전기 및 계측제어)전자입찰 공고(긴급) 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 53",
       "published": null,
       "starts": null,
       "deadline": null
@@ -811,7 +811,7 @@
       "region": "당진",
       "title": "도비도항 여객선터미널 건립사업(전기) 전자입찰 공고(긴급)",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58272",
-      "excerpt": "당진시 공고 제2026-2934호 공고(입찰공고) 도비도항 여객선터미널 건립사업(전기) 전자입찰 공고(긴급) 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 59",
+      "excerpt": "당진시 공고 제2026-2934호 공고(입찰공고) 도비도항 여객선터미널 건립사업(전기) 전자입찰 공고(긴급) 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 60",
       "published": null,
       "starts": null,
       "deadline": null
@@ -823,7 +823,7 @@
       "region": "당진",
       "title": "2026년 주민등록 사실조사에 따른 장기거주불명자 직권조치 결과 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58271",
-      "excerpt": "당진시 신평면 공고 제2026-32호 공고(일반공고) 2026년 주민등록 사실조사에 따른 장기거주불명자 직권조치 결과 공고 신평면 2026-11-26 2026-11-26 ~ 2026-12-11 37",
+      "excerpt": "당진시 신평면 공고 제2026-32호 공고(일반공고) 2026년 주민등록 사실조사에 따른 장기거주불명자 직권조치 결과 공고 신평면 2026-11-26 2026-11-26 ~ 2026-12-11 40",
       "published": null,
       "starts": null,
       "deadline": null
@@ -835,7 +835,7 @@
       "region": "당진",
       "title": "도비도항 여객터미널 건립사업(통신) 견적제출 안내 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58270",
-      "excerpt": "당진시 공고 제2026-2933호 공고(입찰공고) 도비도항 여객터미널 건립사업(통신) 견적제출 안내 공고 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 56",
+      "excerpt": "당진시 공고 제2026-2933호 공고(입찰공고) 도비도항 여객터미널 건립사업(통신) 견적제출 안내 공고 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 59",
       "published": null,
       "starts": null,
       "deadline": null
@@ -847,7 +847,7 @@
       "region": "당진",
       "title": "도비도항 여객터미널 건립사업(소방) 견적제출 안내 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58269",
-      "excerpt": "당진시 공고 제2026-2932호 공고(입찰공고) 도비도항 여객터미널 건립사업(소방) 견적제출 안내 공고 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 54",
+      "excerpt": "당진시 공고 제2026-2932호 공고(입찰공고) 도비도항 여객터미널 건립사업(소방) 견적제출 안내 공고 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 56",
       "published": null,
       "starts": null,
       "deadline": null
@@ -859,7 +859,7 @@
       "region": "당진",
       "title": "방치폐기물 행정대집행 용역(폐기물처리) 입찰 공고(긴급)",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58268",
-      "excerpt": "당진시 공고 제2026-2931호 공고(입찰공고) 방치폐기물 행정대집행 용역(폐기물처리) 입찰 공고(긴급) 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 58",
+      "excerpt": "당진시 공고 제2026-2931호 공고(입찰공고) 방치폐기물 행정대집행 용역(폐기물처리) 입찰 공고(긴급) 회계과 2026-11-26 2026-11-26 ~ 2026-12-02 60",
       "published": null,
       "starts": null,
       "deadline": null
@@ -871,7 +871,7 @@
       "region": "당진",
       "title": "식품위생 영업신고사항 직권말소 사항 반송에 따른 공시송달 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58267",
-      "excerpt": "당진시 공고 제2026-2930호 공고(일반공고) 식품위생 영업신고사항 직권말소 사항 반송에 따른 공시송달 공고 환경위생과 2026-11-26 2026-11-26 ~ 2026-12-10 44",
+      "excerpt": "당진시 공고 제2026-2930호 공고(일반공고) 식품위생 영업신고사항 직권말소 사항 반송에 따른 공시송달 공고 환경위생과 2026-11-26 2026-11-26 ~ 2026-12-10 49",
       "published": null,
       "starts": null,
       "deadline": null
@@ -883,7 +883,7 @@
       "region": "당진",
       "title": "2030년 당진 도시관리계획(재정비) 결정(변경) 전략환경영향평가 평가항목・범위 등의 결정내용 공개 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58259",
-      "excerpt": "당진시 공고 제2026-2926호 공고(일반공고) 2030년 당진 도시관리계획(재정비) 결정(변경) 전략환경영향평가 평가항목・범위 등의 결정내용 공개 공고 스마트도시과 2026-11-26 2026-11-26 ~ 2026-12-10 57",
+      "excerpt": "당진시 공고 제2026-2926호 공고(일반공고) 2030년 당진 도시관리계획(재정비) 결정(변경) 전략환경영향평가 평가항목・범위 등의 결정내용 공개 공고 스마트도시과 2026-11-26 2026-11-26 ~ 2026-12-10 62",
       "published": null,
       "starts": null,
       "deadline": null
@@ -895,7 +895,7 @@
       "region": "당진",
       "title": "2026년 주민등록 사실조사에 따른 무단전출자 최고 공고(마O연 외 7인)",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58264",
-      "excerpt": "당진시 송악읍 공고 제2026-98호 공고(일반공고) 2026년 주민등록 사실조사에 따른 무단전출자 최고 공고(마O연 외 7인) 송악읍 2026-11-25 2026-11-25 ~ 2026-12-03 17",
+      "excerpt": "당진시 송악읍 공고 제2026-98호 공고(일반공고) 2026년 주민등록 사실조사에 따른 무단전출자 최고 공고(마O연 외 7인) 송악읍 2026-11-25 2026-11-25 ~ 2026-12-03 19",
       "published": null,
       "starts": null,
       "deadline": null
@@ -907,7 +907,7 @@
       "region": "당진",
       "title": "건축신고 효력상실 처분 사전통지 공시송달 공고",
       "url": "https://www.dangjin.go.kr/prog/publicNotice/kor/sub03_02_01_04/view.do?not_ancmt_mgt_no=58262",
-      "excerpt": "당진시 공고 제2026-2929호 공고(일반공고) 건축신고 효력상실 처분 사전통지 공시송달 공고 건축과 2026-11-25 2026-11-26 ~ 2026-12-10 56",
+      "excerpt": "당진시 공고 제2026-2929호 공고(일반공고) 건축신고 효력상실 처분 사전통지 공시송달 공고 건축과 2026-11-25 2026-11-26 ~ 2026-12-10 58",
       "published": null,
       "starts": null,
       "deadline": null
@@ -919,7 +919,7 @@
       "region": "충남 전체",
       "title": "「2027논산세계딸기산업엑스포 음식관(푸드코트) 운영사업자 선정」제안서 평가위원회 결과 공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186798&sdate=2025-11-28",
-      "excerpt": "공고 2026-2124 「2027논산세계딸기산업엑스포 음식관(푸드코트) 운영사업자 선정」제안서 평가위원회 결과 공고 농축산국 미래농업과 2026-11-27 53",
+      "excerpt": "공고 2026-2124 「2027논산세계딸기산업엑스포 음식관(푸드코트) 운영사업자 선정」제안서 평가위원회 결과 공고 농축산국 미래농업과 2026-11-27 113",
       "published": null,
       "starts": null,
       "deadline": null
@@ -931,7 +931,7 @@
       "region": "충남 전체",
       "title": "개업공인중개사 등의 교육 위탁기관 모집 공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186800&sdate=2025-11-28",
-      "excerpt": "공고 2026-2123 개업공인중개사 등의 교육 위탁기관 모집 공고 건설교통국 토지공간정책과 2026-11-27 50",
+      "excerpt": "공고 2026-2123 개업공인중개사 등의 교육 위탁기관 모집 공고 건설교통국 토지공간정책과 2026-11-27 115",
       "published": null,
       "starts": null,
       "deadline": null
@@ -943,7 +943,7 @@
       "region": "충남 전체",
       "title": "공유재산(토지) 매각 지명경쟁입찰 공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186771&sdate=2025-11-28",
-      "excerpt": "공고 2026-2116 공유재산(토지) 매각 지명경쟁입찰 공고 자치행정국 세정과 2026-11-27 69",
+      "excerpt": "공고 2026-2116 공유재산(토지) 매각 지명경쟁입찰 공고 자치행정국 세정과 2026-11-27 134",
       "published": null,
       "starts": null,
       "deadline": null
@@ -955,7 +955,7 @@
       "region": "충남 전체",
       "title": "공유재산(토지) 매각 일반경쟁입찰 공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186773&sdate=2025-11-28",
-      "excerpt": "공고 2026-2115 공유재산(토지) 매각 일반경쟁입찰 공고 자치행정국 세정과 2026-11-27 64",
+      "excerpt": "공고 2026-2115 공유재산(토지) 매각 일반경쟁입찰 공고 자치행정국 세정과 2026-11-27 122",
       "published": null,
       "starts": null,
       "deadline": null
@@ -967,7 +967,7 @@
       "region": "충남 전체",
       "title": "부동산개발업 등록말소 공고[(주)비제이글로벌]",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186760&sdate=2025-11-28",
-      "excerpt": "공고 2026-2112 부동산개발업 등록말소 공고[(주)비제이글로벌] 건설교통국 토지공간정책과 2026-11-27 96",
+      "excerpt": "공고 2026-2112 부동산개발업 등록말소 공고[(주)비제이글로벌] 건설교통국 토지공간정책과 2026-11-27 146",
       "published": null,
       "starts": null,
       "deadline": null
@@ -979,7 +979,7 @@
       "region": "충남 전체",
       "title": "2026년 충청남도 청년 주택임차보증금 이자 지원사업 선정 결과 공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186743&sdate=2025-11-28",
-      "excerpt": "공고 2026-2111 2026년 충청남도 청년 주택임차보증금 이자 지원사업 선정 결과 공고 청년여성국 청년정책과 2026-11-27 73",
+      "excerpt": "공고 2026-2111 2026년 충청남도 청년 주택임차보증금 이자 지원사업 선정 결과 공고 청년여성국 청년정책과 2026-11-27 129",
       "published": null,
       "starts": null,
       "deadline": null
@@ -991,7 +991,7 @@
       "region": "충남 전체",
       "title": "환경컨설팅회사 등록말소 공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186745&sdate=2025-11-28",
-      "excerpt": "공고 2026-2109 환경컨설팅회사 등록말소 공고 기후환경산림국 환경관리과 2026-11-27 126",
+      "excerpt": "공고 2026-2109 환경컨설팅회사 등록말소 공고 기후환경산림국 환경관리과 2026-11-27 161",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1003,7 +1003,7 @@
       "region": "충남 전체",
       "title": "2026년도 제4차 충청남도 건축물 미술작품 심의위원회 심의 결과 공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186747&sdate=2025-11-28",
-      "excerpt": "공고 2026-2097 2026년도 제4차 충청남도 건축물 미술작품 심의위원회 심의 결과 공고 문화체육관광국 문화정책과 2026-11-27 54",
+      "excerpt": "공고 2026-2097 2026년도 제4차 충청남도 건축물 미술작품 심의위원회 심의 결과 공고 문화체육관광국 문화정책과 2026-11-27 87",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1015,7 +1015,7 @@
       "region": "충남 전체",
       "title": "2027년 충청남도 발주공사 안전점검 수행기관 등록명부 공개",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186749&sdate=2025-11-28",
-      "excerpt": "공고 2026-2092 2027년 충청남도 발주공사 안전점검 수행기관 등록명부 공개 건설교통국 건설정책과 2026-11-27 133",
+      "excerpt": "공고 2026-2092 2027년 충청남도 발주공사 안전점검 수행기관 등록명부 공개 건설교통국 건설정책과 2026-11-27 181",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1027,7 +1027,7 @@
       "region": "충남 전체",
       "title": "금산일반산업단지 지정(개발계획) 변경 및 실시계획(안) 관련 주민 등의 의견 청취 공람·공고",
       "url": "https://www.chungnam.go.kr/cnportal/province/province/view.do?cl1CdValue=&edate=2026-11-28&menuNo=500487&nttId=2186751&sdate=2025-11-28",
-      "excerpt": "공고 2026-2085 금산일반산업단지 지정(개발계획) 변경 및 실시계획(안) 관련 주민 등의 의견 청취 공람·공고 경제통상국 산업입지과 2026-11-27 73",
+      "excerpt": "공고 2026-2085 금산일반산업단지 지정(개발계획) 변경 및 실시계획(안) 관련 주민 등의 의견 청취 공람·공고 경제통상국 산업입지과 2026-11-27 99",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1039,7 +1039,7 @@
       "region": "충남 전체",
       "title": "2026년 지방보조금 부정수급 집중 신고기간 운영('26. 12. 1. ~ 12. 31.)",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2186697&pageUnit=10",
-      "excerpt": "20 2026년 지방보조금 부정수급 집중 신고기간 운영('26. 12. 1. ~ 12. 31.) 예산담당관 2026-11-26 39",
+      "excerpt": "20 2026년 지방보조금 부정수급 집중 신고기간 운영('26. 12. 1. ~ 12. 31.) 예산담당관 2026-11-26 41",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1051,7 +1051,7 @@
       "region": "충남 전체",
       "title": "2026년도(2025회계연도)지방보조사업 운용평가 결과",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2181182&pageUnit=10",
-      "excerpt": "19 2026년도(2025회계연도)지방보조사업 운용평가 결과 예산담당관 2026-07-31 1428",
+      "excerpt": "19 2026년도(2025회계연도)지방보조사업 운용평가 결과 예산담당관 2026-07-31 1431",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1063,7 +1063,7 @@
       "region": "충남 전체",
       "title": "2025 회계연도 지방보조금 총괄정산",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2179103&pageUnit=10",
-      "excerpt": "18 2025 회계연도 지방보조금 총괄정산 예산담당관 2026-06-22 3265",
+      "excerpt": "18 2025 회계연도 지방보조금 총괄정산 예산담당관 2026-06-22 3371",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1075,7 +1075,7 @@
       "region": "충남 전체",
       "title": "2026년 충청남도 지방보조금 관리지침",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2171803&pageUnit=10",
-      "excerpt": "17 2026년 충청남도 지방보조금 관리지침 예산담당관 2026-02-04 4268",
+      "excerpt": "17 2026년 충청남도 지방보조금 관리지침 예산담당관 2026-02-04 4269",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1087,7 +1087,7 @@
       "region": "충남 전체",
       "title": "충청남도 보조금 관리 2년 연속(2024~2025) 지방재정대상 우수기관 선정",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2168984&pageUnit=10",
-      "excerpt": "16 충청남도 보조금 관리 2년 연속(2024~2025) 지방재정대상 우수기관 선정 예산담당관 2025-12-17 4430",
+      "excerpt": "16 충청남도 보조금 관리 2년 연속(2024~2025) 지방재정대상 우수기관 선정 예산담당관 2025-12-17 4432",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1099,7 +1099,7 @@
       "region": "충남 전체",
       "title": "지방보조금 부정수급 집중 신고기간 운영('25. 12. 1. ~ 12. 31.)",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2167428&pageUnit=10",
-      "excerpt": "15 지방보조금 부정수급 집중 신고기간 운영('25. 12. 1. ~ 12. 31.) 예산담당관 2025-11-25 2144",
+      "excerpt": "15 지방보조금 부정수급 집중 신고기간 운영('25. 12. 1. ~ 12. 31.) 예산담당관 2025-11-25 2145",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1111,7 +1111,7 @@
       "region": "충남 전체",
       "title": "2025년도(2024회계연도) 지방보조사업 운용평가 결과",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2161349&pageUnit=10",
-      "excerpt": "14 2025년도(2024회계연도) 지방보조사업 운용평가 결과 예산담당관 2025-07-28 2019",
+      "excerpt": "14 2025년도(2024회계연도) 지방보조사업 운용평가 결과 예산담당관 2025-07-28 2023",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1123,7 +1123,7 @@
       "region": "충남 전체",
       "title": "2024 회계연도 지방보조금 총괄정산",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2158628&pageUnit=10",
-      "excerpt": "13 2024 회계연도 지방보조금 총괄정산 예산담당관 2025-06-10 3513",
+      "excerpt": "13 2024 회계연도 지방보조금 총괄정산 예산담당관 2025-06-10 3620",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1135,7 +1135,7 @@
       "region": "충남 전체",
       "title": "2025년도 충청남도 지방보조금 관리지침",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2150768&pageUnit=10",
-      "excerpt": "12 2025년도 충청남도 지방보조금 관리지침 예산담당관 2025-01-22 5686",
+      "excerpt": "12 2025년도 충청남도 지방보조금 관리지침 예산담당관 2025-01-22 5687",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1147,7 +1147,7 @@
       "region": "충남 전체",
       "title": "지방보조금 부정수급 집중 신고기간 운영('24. 12. 2.~ 12. 31.)",
       "url": "https://www.chungnam.go.kr/cnportal/bbs/B0000250/view.do?menuNo=500452&nttId=2147490&pageUnit=10",
-      "excerpt": "11 지방보조금 부정수급 집중 신고기간 운영('24. 12. 2.~ 12. 31.) 예산담당관 2024-11-26 29795",
+      "excerpt": "11 지방보조금 부정수급 집중 신고기간 운영('24. 12. 2.~ 12. 31.) 예산담당관 2024-11-26 29796",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1159,7 +1159,7 @@
       "region": "공주",
       "title": "[사업공모] 2026 문화공간 어디쉐어 하숙동1번지(가을편) 프리마켓 참여자 모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17425&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "308 [사업공모] 2026 문화공간 어디쉐어 하숙동1번지(가을편) 프리마켓 참여자 모집 공고 589 2026.10.22",
+      "excerpt": "308 [사업공모] 2026 문화공간 어디쉐어 하숙동1번지(가을편) 프리마켓 참여자 모집 공고 595 2026.10.22",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1171,7 +1171,7 @@
       "region": "공주",
       "title": "[사업공모] 2026 공주문화예술촌 스토리 콘텐츠 창작공간 청년 입주작가 수시모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17410&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "307 [사업공모] 2026 공주문화예술촌 스토리 콘텐츠 창작공간 청년 입주작가 수시모집 공고 967 2026.10.02",
+      "excerpt": "307 [사업공모] 2026 공주문화예술촌 스토리 콘텐츠 창작공간 청년 입주작가 수시모집 공고 985 2026.10.02",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1183,7 +1183,7 @@
       "region": "공주",
       "title": "[사업공모] 백제문화전당 기념품숍 입점작가 추가공모 선정결과 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17409&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "306 [사업공모] 백제문화전당 기념품숍 입점작가 추가공모 선정결과 공고 407 2026.09.30",
+      "excerpt": "306 [사업공모] 백제문화전당 기념품숍 입점작가 추가공모 선정결과 공고 411 2026.09.30",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1195,7 +1195,7 @@
       "region": "공주",
       "title": "[입찰공고] 유구읍·의당면 기록지 출판 및 감수 용역 평가위원(후보자) 재공개 모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17401&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "305 [입찰공고] 유구읍·의당면 기록지 출판 및 감수 용역 평가위원(후보자) 재공개 모집 공고 395 2026.09.17",
+      "excerpt": "305 [입찰공고] 유구읍·의당면 기록지 출판 및 감수 용역 평가위원(후보자) 재공개 모집 공고 398 2026.09.17",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1207,7 +1207,7 @@
       "region": "공주",
       "title": "[사업공모] 2026년 백제문화전당 기념품숍 입점작가 추가모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17351&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "304 [사업공모] 2026년 백제문화전당 기념품숍 입점작가 추가모집 공고 657 2026.08.26",
+      "excerpt": "304 [사업공모] 2026년 백제문화전당 기념품숍 입점작가 추가모집 공고 663 2026.08.26",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1219,7 +1219,7 @@
       "region": "공주",
       "title": "[사업공모] 2026 하반기 시민문예아카데미 수강생 모집 결과 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17333&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "303 [사업공모] 2026 하반기 시민문예아카데미 수강생 모집 결과 공고 357 2026.08.25",
+      "excerpt": "303 [사업공모] 2026 하반기 시민문예아카데미 수강생 모집 결과 공고 361 2026.08.25",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1231,7 +1231,7 @@
       "region": "공주",
       "title": "[사업공모] 2026 제4회(10월) 공주그림상점로 참여예술인 모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17316&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "302 [사업공모] 2026 제4회(10월) 공주그림상점로 참여예술인 모집 공고 540 2026.08.18",
+      "excerpt": "302 [사업공모] 2026 제4회(10월) 공주그림상점로 참여예술인 모집 공고 543 2026.08.18",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1243,7 +1243,7 @@
       "region": "공주",
       "title": "[사업공모] AI 대항해 시대, 공주 관광 활성화 아이디어 공모전 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17293&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "301 [사업공모] AI 대항해 시대, 공주 관광 활성화 아이디어 공모전 공고 1335 2026.08.05",
+      "excerpt": "301 [사업공모] AI 대항해 시대, 공주 관광 활성화 아이디어 공모전 공고 1341 2026.08.05",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1255,7 +1255,7 @@
       "region": "공주",
       "title": "[사업공모] 2026 하반기 시민문예아카데미 수강생 모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17289&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "300 [사업공모] 2026 하반기 시민문예아카데미 수강생 모집 공고 564 2026.07.30",
+      "excerpt": "300 [사업공모] 2026 하반기 시민문예아카데미 수강생 모집 공고 567 2026.07.30",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1267,7 +1267,7 @@
       "region": "공주",
       "title": "[입찰공고] 유구읍·의당면 기록지 출판 및 감수 용역 평가위원(후보자)모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=72&boardNo=17264&menuLevel=2&menuNo=226&searchCategory=&searchType=&searchWord=",
-      "excerpt": "299 [입찰공고] 유구읍·의당면 기록지 출판 및 감수 용역 평가위원(후보자)모집 공고 1055 2026.07.23",
+      "excerpt": "299 [입찰공고] 유구읍·의당면 기록지 출판 및 감수 용역 평가위원(후보자)모집 공고 1061 2026.07.23",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1279,7 +1279,7 @@
       "region": "공주",
       "title": "2027년 백제문화전당 상반기 정기대관 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17423&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "주요 2027년 백제문화전당 상반기 정기대관 공고 1278 2026.10.21",
+      "excerpt": "주요 2027년 백제문화전당 상반기 정기대관 공고 1302 2026.10.21",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1291,7 +1291,7 @@
       "region": "공주",
       "title": "2026년 백제문화전당 2차 수시대관 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17418&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "591 2026년 백제문화전당 2차 수시대관 공고 1676 2026.10.08",
+      "excerpt": "591 2026년 백제문화전당 2차 수시대관 공고 1680 2026.10.08",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1303,7 +1303,7 @@
       "region": "공주",
       "title": "2026년 백제문화전당 수시대관 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17373&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "590 2026년 백제문화전당 수시대관 공고 1258 2026.08.31",
+      "excerpt": "590 2026년 백제문화전당 수시대관 공고 1261 2026.08.31",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1315,7 +1315,7 @@
       "region": "공주",
       "title": "2026년도 1967호서극장 수시대관공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17326&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "589 2026년도 1967호서극장 수시대관공고 3090 2026.08.20",
+      "excerpt": "589 2026년도 1967호서극장 수시대관공고 3093 2026.08.20",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1327,7 +1327,7 @@
       "region": "공주",
       "title": "2026년 공주 국가유산 야행 '147 야시장: 공주 프리마켓' 판매자 모집",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17319&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "588 2026년 공주 국가유산 야행 '147 야시장: 공주 프리마켓' 판매자 모집 1681 2026.08.19",
+      "excerpt": "588 2026년 공주 국가유산 야행 '147 야시장: 공주 프리마켓' 판매자 모집 1685 2026.08.19",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1339,7 +1339,7 @@
       "region": "공주",
       "title": "2026 제4회(10월) 공주그림상점로 참여예술인 모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17317&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "587 2026 제4회(10월) 공주그림상점로 참여예술인 모집 공고 1518 2026.08.18",
+      "excerpt": "587 2026 제4회(10월) 공주그림상점로 참여예술인 모집 공고 1521 2026.08.18",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1351,7 +1351,7 @@
       "region": "공주",
       "title": "뮤지컬 <왕관을 찾아서: 진묘수와 시간의 문> 티켓 오픈 및 공연 일정 변경 안내",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17287&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "586 뮤지컬 <왕관을 찾아서: 진묘수와 시간의 문> 티켓 오픈 및 공연 일정 변경 안내 1613 2026.07.24",
+      "excerpt": "586 뮤지컬 <왕관을 찾아서: 진묘수와 시간의 문> 티켓 오픈 및 공연 일정 변경 안내 1616 2026.07.24",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1363,7 +1363,7 @@
       "region": "공주",
       "title": "제26회 공주 박동진 판소리 명창·명고 대회 예·본선 결과 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17258&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "585 제26회 공주 박동진 판소리 명창·명고 대회 예·본선 결과 공고 1426 2026.07.20",
+      "excerpt": "585 제26회 공주 박동진 판소리 명창·명고 대회 예·본선 결과 공고 1428 2026.07.20",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1375,7 +1375,7 @@
       "region": "공주",
       "title": "2026년 (재)공주문화관광재단 관광진흥센터 제안서 평가위원(후보자) 모집 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17250&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "584 2026년 (재)공주문화관광재단 관광진흥센터 제안서 평가위원(후보자) 모집 공고 2013 2026.07.07",
+      "excerpt": "584 2026년 (재)공주문화관광재단 관광진흥센터 제안서 평가위원(후보자) 모집 공고 2016 2026.07.07",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1387,7 +1387,7 @@
       "region": "공주",
       "title": "2026 공주문화예술촌 스토리콘텐츠 창작공간 청년 입주작가 추가 모집 최종 합격자 공고",
       "url": "https://www.gongjucf.or.kr:443/gongjucf/board/read?boardManagementNo=127&boardNo=17242&menuLevel=2&menuNo=225&searchCategory=&searchType=&searchWord=",
-      "excerpt": "583 2026 공주문화예술촌 스토리콘텐츠 창작공간 청년 입주작가 추가 모집 최종 합격자 공고 1568 2026.07.01",
+      "excerpt": "583 2026 공주문화예술촌 스토리콘텐츠 창작공간 청년 입주작가 추가 모집 최종 합격자 공고 1571 2026.07.01",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1591,7 +1591,7 @@
       "region": "아산",
       "title": "[공지]2026. 11. 23.(월) 청년아지트 나와유 배방점 3층 휴관 안내",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026111914091411954&tb_nm=notice",
-      "excerpt": "[공지]2026. 11. 23.(월) 청년아지트 나와유 배방점 3층 휴관 안내 청년아지트 나와유 2026-11-19 488",
+      "excerpt": "[공지]2026. 11. 23.(월) 청년아지트 나와유 배방점 3층 휴관 안내 청년아지트 나와유 2026-11-19 520",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1603,7 +1603,7 @@
       "region": "아산",
       "title": "[공지]「창업액셀러레이팅 창업사업 매니저」 채용 안내",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026111910353362780&tb_nm=notice",
-      "excerpt": "[공지]「창업액셀러레이팅 창업사업 매니저」 채용 안내 청년아지트나와유 2026-11-19 345",
+      "excerpt": "[공지]「창업액셀러레이팅 창업사업 매니저」 채용 안내 청년아지트나와유 2026-11-19 360",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1615,7 +1615,7 @@
       "region": "아산",
       "title": "[공지]클래스 강사 모집 안내",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026110911160597905&tb_nm=notice",
-      "excerpt": "[공지]클래스 강사 모집 안내 청년아지트 나와유 2026-11-09 863",
+      "excerpt": "[공지]클래스 강사 모집 안내 청년아지트 나와유 2026-11-09 882",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1627,7 +1627,7 @@
       "region": "아산",
       "title": "[공지]함께 실천하는 탄소중립 - 센터 내 인쇄용지 및 종이컵 비치 변경안내",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026052216450234197&tb_nm=notice",
-      "excerpt": "[공지]함께 실천하는 탄소중립 - 센터 내 인쇄용지 및 종이컵 비치 변경안내 청년아지트 나와유 2026-05-22 1046",
+      "excerpt": "[공지]함께 실천하는 탄소중립 - 센터 내 인쇄용지 및 종이컵 비치 변경안내 청년아지트 나와유 2026-05-22 1054",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1639,7 +1639,7 @@
       "region": "아산",
       "title": "[공지]아산시 청년 정장 대여 사업 운영기관 모집(4차) (~ 상시모집)",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026022013173246865&tb_nm=notice",
-      "excerpt": "[공지]아산시 청년 정장 대여 사업 운영기관 모집(4차) (~ 상시모집) 청년아지트 나와YOU 2026-02-20 1068",
+      "excerpt": "[공지]아산시 청년 정장 대여 사업 운영기관 모집(4차) (~ 상시모집) 청년아지트 나와YOU 2026-02-20 1072",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1651,7 +1651,7 @@
       "region": "아산",
       "title": "[행사 안내] 2026 사회적 고립·은둔 예방지원 북토크쇼 참여 안내",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026111715044223987&tb_nm=notice",
-      "excerpt": "1390 [행사 안내] 2026 사회적 고립·은둔 예방지원 북토크쇼 참여 안내 청년아지트 나와유 2026-11-17 335",
+      "excerpt": "1390 [행사 안내] 2026 사회적 고립·은둔 예방지원 북토크쇼 참여 안내 청년아지트 나와유 2026-11-17 345",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1663,7 +1663,7 @@
       "region": "아산",
       "title": "2026년 12월 스터디카페 지정석 신청안내드립니다.",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026111618203409336&tb_nm=notice",
-      "excerpt": "1389 2026년 12월 스터디카페 지정석 신청안내드립니다. 청년아지트 나와유 2026-11-16 147",
+      "excerpt": "1389 2026년 12월 스터디카페 지정석 신청안내드립니다. 청년아지트 나와유 2026-11-16 156",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1675,7 +1675,7 @@
       "region": "아산",
       "title": "(무료 행사) 달~콤한 빅토리아 디저트 시식단! 친구와/가족과/연인과 함께해..",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026111315223208946&tb_nm=notice",
-      "excerpt": "1388 (무료 행사) 달~콤한 빅토리아 디저트 시식단! 친구와/가족과/연인과 함께해.. 청년아지트 나와유 2026-11-13 203",
+      "excerpt": "1388 (무료 행사) 달~콤한 빅토리아 디저트 시식단! 친구와/가족과/연인과 함께해.. 청년아지트 나와유 2026-11-13 206",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1687,7 +1687,7 @@
       "region": "아산",
       "title": "[모집] 2026 아산시 창업 CEO 아카데미 교육생 모집 (~11/16 선착순 마감)",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026111015081433520&tb_nm=notice",
-      "excerpt": "1387 [모집] 2026 아산시 창업 CEO 아카데미 교육생 모집 (~11/16 선착순 마감) 청년아지트 나와유 2026-11-10 303",
+      "excerpt": "1387 [모집] 2026 아산시 창업 CEO 아카데미 교육생 모집 (~11/16 선착순 마감) 청년아지트 나와유 2026-11-10 311",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1699,7 +1699,7 @@
       "region": "아산",
       "title": "(무료 행사) 쫀~득한 모찌떡 만들고, 달~콤한 캠핑 스모어쿠키 만드는 문화..",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026110416383897916&tb_nm=notice",
-      "excerpt": "1385 (무료 행사) 쫀~득한 모찌떡 만들고, 달~콤한 캠핑 스모어쿠키 만드는 문화.. 청년아지트 나와유 2026-11-04 231",
+      "excerpt": "1385 (무료 행사) 쫀~득한 모찌떡 만들고, 달~콤한 캠핑 스모어쿠키 만드는 문화.. 청년아지트 나와유 2026-11-04 239",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1711,7 +1711,7 @@
       "region": "아산",
       "title": "2026 청년취업JOB아유(시즌2) 기업 매칭존 부스 안내",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026110214420400459&tb_nm=notice",
-      "excerpt": "1384 2026 청년취업JOB아유(시즌2) 기업 매칭존 부스 안내 청년아지트 나와유 2026-11-02 288",
+      "excerpt": "1384 2026 청년취업JOB아유(시즌2) 기업 매칭존 부스 안내 청년아지트 나와유 2026-11-02 291",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1723,7 +1723,7 @@
       "region": "아산",
       "title": "(무료 행사)피자 만들고 커피 내리고 굿즈 수집하러 갈래?",
       "url": "https://www.asan.go.kr/naeil/board/?m_mode=view&pds_no=2026102616025376292&tb_nm=notice",
-      "excerpt": "1383 (무료 행사)피자 만들고 커피 내리고 굿즈 수집하러 갈래? 청년아지트 나와유 2026-10-26 211",
+      "excerpt": "1383 (무료 행사)피자 만들고 커피 내리고 굿즈 수집하러 갈래? 청년아지트 나와유 2026-10-26 213",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1735,7 +1735,7 @@
       "region": "충남 전체",
       "title": "[★공지★] 농업기술원 사칭 영농자재 강매 사기 주의 안내",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234803&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "공지 [★공지★] 농업기술원 사칭 영농자재 강매 사기 주의 안내 관리자 2026-11-11 2060",
+      "excerpt": "공지 [★공지★] 농업기술원 사칭 영농자재 강매 사기 주의 안내 관리자 2026-11-11 2181",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1747,7 +1747,7 @@
       "region": "충남 전체",
       "title": "2026년 딸기연구소 단기 기간제근로자(30일 미만) 채용 공고",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234846&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "493 2026년 딸기연구소 단기 기간제근로자(30일 미만) 채용 공고 이건우 2026-11-27 163",
+      "excerpt": "493 2026년 딸기연구소 단기 기간제근로자(30일 미만) 채용 공고 이건우 2026-11-27 281",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1759,7 +1759,7 @@
       "region": "충남 전체",
       "title": "충청남도농업기술원 교육관 CCTV 추가설치 행정예고",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234845&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "492 충청남도농업기술원 교육관 CCTV 추가설치 행정예고 임주빈 2026-11-27 138",
+      "excerpt": "492 충청남도농업기술원 교육관 CCTV 추가설치 행정예고 임주빈 2026-11-27 207",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1771,7 +1771,7 @@
       "region": "충남 전체",
       "title": "2027년 충청남도농업기술원 스마트교육센터 기간제근로자 1차 채용 공고",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234841&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "491 2027년 충청남도농업기술원 스마트교육센터 기간제근로자 1차 채용 공고 윤혜진 2026-11-26 512",
+      "excerpt": "491 2027년 충청남도농업기술원 스마트교육센터 기간제근로자 1차 채용 공고 윤혜진 2026-11-26 587",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1783,7 +1783,7 @@
       "region": "충남 전체",
       "title": "2026년도 스마트농업연구과 데이터분석팀 단기 기간제근로자(30일 미만) 채용 공고",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234840&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "490 2026년도 스마트농업연구과 데이터분석팀 단기 기간제근로자(30일 미만) 채용 공고 관리자 2026-11-26 355",
+      "excerpt": "490 2026년도 스마트농업연구과 데이터분석팀 단기 기간제근로자(30일 미만) 채용 공고 관리자 2026-11-26 406",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1795,7 +1795,7 @@
       "region": "충남 전체",
       "title": "2026년도 양념채소연구소 단기 기간제근로자(30일 미만) 3차 채용 공고",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234831&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "489 2026년도 양념채소연구소 단기 기간제근로자(30일 미만) 3차 채용 공고 송슬기 2026-11-19 1421",
+      "excerpt": "489 2026년도 양념채소연구소 단기 기간제근로자(30일 미만) 3차 채용 공고 송슬기 2026-11-19 1482",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1807,7 +1807,7 @@
       "region": "충남 전체",
       "title": "2026년 농업경영팀 단기(30일 미만) 기간제근로자 채용공고(2차)",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234828&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "488 2026년 농업경영팀 단기(30일 미만) 기간제근로자 채용공고(2차) 관리자 2026-11-18 1232",
+      "excerpt": "488 2026년 농업경영팀 단기(30일 미만) 기간제근로자 채용공고(2차) 관리자 2026-11-18 1287",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1819,7 +1819,7 @@
       "region": "충남 전체",
       "title": "2026년 디지털과수팀 7차 단기(30일 미만) 기간제근로자 채용 공고",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234817&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "487 2026년 디지털과수팀 7차 단기(30일 미만) 기간제근로자 채용 공고 김주빈 2026-11-16 1194",
+      "excerpt": "487 2026년 디지털과수팀 7차 단기(30일 미만) 기간제근로자 채용 공고 김주빈 2026-11-16 1239",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1831,7 +1831,7 @@
       "region": "충남 전체",
       "title": "충청남도 도유품종보호권 처분 공고(제2026-2018호)",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234816&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "486 충청남도 도유품종보호권 처분 공고(제2026-2018호) 송재건 2026-11-16 1202",
+      "excerpt": "486 충청남도 도유품종보호권 처분 공고(제2026-2018호) 송재건 2026-11-16 1238",
       "published": null,
       "starts": null,
       "deadline": null
@@ -1843,7 +1843,7 @@
       "region": "충남 전체",
       "title": "2026년 스마트농업연구과 기후변화대응팀 1차 단기 기간제근로자(30일 미만) 채용공고",
       "url": "https://cnnongup.chungnam.go.kr/board/B0013.cs?act=read&articleId=234793&m=56&pageUnit=10&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=",
-      "excerpt": "484 2026년 스마트농업연구과 기후변화대응팀 1차 단기 기간제근로자(30일 미만) 채용공고 김동겸 2026-11-09 1691",
+      "excerpt": "484 2026년 스마트농업연구과 기후변화대응팀 1차 단기 기간제근로자(30일 미만) 채용공고 김동겸 2026-11-09 1752",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2215,7 +2215,7 @@
       "region": "충남 전체",
       "title": "공고 『사회연대경제 청년 일경험 시범사업』 제6차 참여기업 추가 모집 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2428&md_id=center_news",
-      "excerpt": "공지 공고 『사회연대경제 청년 일경험 시범사업』 제6차 참여기업 추가 모집 공고 공고 『사회연대경제 청년 일경험 시범사업』 제6차 참여기업 추가 모집 공고 운영자 | 2026-11-25 | 123 운영자 2026-11-25 123",
+      "excerpt": "공지 공고 『사회연대경제 청년 일경험 시범사업』 제6차 참여기업 추가 모집 공고 공고 『사회연대경제 청년 일경험 시범사업』 제6차 참여기업 추가 모집 공고 운영자 | 2026-11-25 | 145 운영자 2026-11-25 145",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2227,7 +2227,7 @@
       "region": "충남 전체",
       "title": "공고 『사회연대경제 청년 일경험 시범사업』제6차 참여청년 모집 수정 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2427&md_id=center_news",
-      "excerpt": "공지 공고 『사회연대경제 청년 일경험 시범사업』제6차 참여청년 모집 수정 공고 공고 『사회연대경제 청년 일경험 시범사업』제6차 참여청년 모집 수정 공고 운영자 | 2026-11-25 | 162 운영자 2026-11-25 162",
+      "excerpt": "공지 공고 『사회연대경제 청년 일경험 시범사업』제6차 참여청년 모집 수정 공고 공고 『사회연대경제 청년 일경험 시범사업』제6차 참여청년 모집 수정 공고 운영자 | 2026-11-25 | 184 운영자 2026-11-25 184",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2239,7 +2239,7 @@
       "region": "충남 전체",
       "title": "공고 『사회연대경제 청년 일경험사업 시범사업』 제6차 참여기업 선정 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2426&md_id=center_news",
-      "excerpt": "공지 공고 『사회연대경제 청년 일경험사업 시범사업』 제6차 참여기업 선정 공고 공고 『사회연대경제 청년 일경험사업 시범사업』 제6차 참여기업 선정 공고 운영자 | 2026-11-25 | 103 운영자 2026-11-25 103",
+      "excerpt": "공지 공고 『사회연대경제 청년 일경험사업 시범사업』 제6차 참여기업 선정 공고 공고 『사회연대경제 청년 일경험사업 시범사업』 제6차 참여기업 선정 공고 운영자 | 2026-11-25 | 114 운영자 2026-11-25 114",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2251,7 +2251,7 @@
       "region": "충남 전체",
       "title": "행사 제8회 대한민국 사회연대경제박람회 및 국제컨퍼런스 안내",
       "url": "https://www.cnse.kr/app/board/view?code=2425&md_id=center_news",
-      "excerpt": "공지 행사 제8회 대한민국 사회연대경제박람회 및 국제컨퍼런스 안내 행사 제8회 대한민국 사회연대경제박람회 및 국제컨퍼런스 안내 운영자 | 2026-11-25 | 71 운영자 2026-11-25 71",
+      "excerpt": "공지 행사 제8회 대한민국 사회연대경제박람회 및 국제컨퍼런스 안내 행사 제8회 대한민국 사회연대경제박람회 및 국제컨퍼런스 안내 운영자 | 2026-11-25 | 80 운영자 2026-11-25 80",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2263,7 +2263,7 @@
       "region": "충남 전체",
       "title": "공고 [2026 프로젝트. 상생] 쇼미더임팩트 시즌6 결선 방청단 모집",
       "url": "https://www.cnse.kr/app/board/view?code=2421&md_id=center_news",
-      "excerpt": "공지 공고 [2026 프로젝트. 상생] 쇼미더임팩트 시즌6 결선 방청단 모집 공고 [2026 프로젝트. 상생] 쇼미더임팩트 시즌6 결선 방청단 모집 관리자 | 2026-11-20 | 233 관리자 2026-11-20 233",
+      "excerpt": "공지 공고 [2026 프로젝트. 상생] 쇼미더임팩트 시즌6 결선 방청단 모집 공고 [2026 프로젝트. 상생] 쇼미더임팩트 시즌6 결선 방청단 모집 관리자 | 2026-11-20 | 244 관리자 2026-11-20 244",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2275,7 +2275,7 @@
       "region": "충남 전체",
       "title": "공고 AX마케팅 콘텐츠 제작 역량강화 지원사업 선정공고",
       "url": "https://www.cnse.kr/app/board/view?code=2417&md_id=center_news",
-      "excerpt": "공지 공고 AX마케팅 콘텐츠 제작 역량강화 지원사업 선정공고 공고 AX마케팅 콘텐츠 제작 역량강화 지원사업 선정공고 관리자 | 2026-11-13 | 241 관리자 2026-11-13 241",
+      "excerpt": "공지 공고 AX마케팅 콘텐츠 제작 역량강화 지원사업 선정공고 공고 AX마케팅 콘텐츠 제작 역량강화 지원사업 선정공고 관리자 | 2026-11-13 | 247 관리자 2026-11-13 247",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2287,7 +2287,7 @@
       "region": "충남 전체",
       "title": "공지 「2026 사회연대경제 크리스마스 놀이터」1회차 참가자 선정 결과",
       "url": "https://www.cnse.kr/app/board/view?code=2416&md_id=center_news",
-      "excerpt": "공지 공지 「2026 사회연대경제 크리스마스 놀이터」1회차 참가자 선정 결과 공지 「2026 사회연대경제 크리스마스 놀이터」1회차 참가자 선정 결과 운영자 | 2026-11-11 | 585 운영자 2026-11-11 585",
+      "excerpt": "공지 공지 「2026 사회연대경제 크리스마스 놀이터」1회차 참가자 선정 결과 공지 「2026 사회연대경제 크리스마스 놀이터」1회차 참가자 선정 결과 운영자 | 2026-11-11 | 593 운영자 2026-11-11 593",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2299,7 +2299,7 @@
       "region": "충남 전체",
       "title": "공고 [2026 프로젝트. 상생] 「쇼미더임팩트 시즌6」예선심사 선정공고",
       "url": "https://www.cnse.kr/app/board/view?code=2413&md_id=center_news",
-      "excerpt": "공지 공고 [2026 프로젝트. 상생] 「쇼미더임팩트 시즌6」예선심사 선정공고 공고 [2026 프로젝트. 상생] 「쇼미더임팩트 시즌6」예선심사 선정공고 관리자 | 2026-11-04 | 313 관리자 2026-11-04 313",
+      "excerpt": "공지 공고 [2026 프로젝트. 상생] 「쇼미더임팩트 시즌6」예선심사 선정공고 공고 [2026 프로젝트. 상생] 「쇼미더임팩트 시즌6」예선심사 선정공고 관리자 | 2026-11-04 | 318 관리자 2026-11-04 318",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2311,7 +2311,7 @@
       "region": "충남 전체",
       "title": "공고 「AX마케팅 콘텐츠 제작 역량강화 지원사업 」참여기업 모집공고",
       "url": "https://www.cnse.kr/app/board/view?code=2409&md_id=center_news",
-      "excerpt": "공지 공고 「AX마케팅 콘텐츠 제작 역량강화 지원사업 」참여기업 모집공고 공고 「AX마케팅 콘텐츠 제작 역량강화 지원사업 」참여기업 모집공고 운영자 | 2026-10-30 | 2,458 운영자 2026-10-30 2,458",
+      "excerpt": "공지 공고 「AX마케팅 콘텐츠 제작 역량강화 지원사업 」참여기업 모집공고 공고 「AX마케팅 콘텐츠 제작 역량강화 지원사업 」참여기업 모집공고 운영자 | 2026-10-30 | 2,467 운영자 2026-10-30 2,467",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2323,7 +2323,7 @@
       "region": "충남 전체",
       "title": "공고 [2026 프로젝트. 상생]「쇼미더임팩트 시즌6」서류 심사 선정 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2408&md_id=center_news",
-      "excerpt": "공지 공고 [2026 프로젝트. 상생]「쇼미더임팩트 시즌6」서류 심사 선정 공고 공고 [2026 프로젝트. 상생]「쇼미더임팩트 시즌6」서류 심사 선정 공고 운영자 | 2026-10-29 | 243 운영자 2026-10-29 243",
+      "excerpt": "공지 공고 [2026 프로젝트. 상생]「쇼미더임팩트 시즌6」서류 심사 선정 공고 공고 [2026 프로젝트. 상생]「쇼미더임팩트 시즌6」서류 심사 선정 공고 운영자 | 2026-10-29 | 249 운영자 2026-10-29 249",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2335,7 +2335,7 @@
       "region": "충남 전체",
       "title": "공고 충남사회적경제지원센터 2026년 제3차 직원 공개채용 최종합격자 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2407&md_id=center_news",
-      "excerpt": "공지 공고 충남사회적경제지원센터 2026년 제3차 직원 공개채용 최종합격자 공고 공고 충남사회적경제지원센터 2026년 제3차 직원 공개채용 최종합격자 공고 관리자 | 2026-10-29 | 280 관리자 2026-10-29 280",
+      "excerpt": "공지 공고 충남사회적경제지원센터 2026년 제3차 직원 공개채용 최종합격자 공고 공고 충남사회적경제지원센터 2026년 제3차 직원 공개채용 최종합격자 공고 관리자 | 2026-10-29 | 285 관리자 2026-10-29 285",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2347,7 +2347,7 @@
       "region": "충남 전체",
       "title": "공고 [2026 프로젝트. 상생] 6차 산업 인증 지원사업 심사대상기업 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2403&md_id=center_news",
-      "excerpt": "공지 공고 [2026 프로젝트. 상생] 6차 산업 인증 지원사업 심사대상기업 공고 공고 [2026 프로젝트. 상생] 6차 산업 인증 지원사업 심사대상기업 공고 관리자 | 2026-10-20 | 283 관리자 2026-10-20 283",
+      "excerpt": "공지 공고 [2026 프로젝트. 상생] 6차 산업 인증 지원사업 심사대상기업 공고 공고 [2026 프로젝트. 상생] 6차 산업 인증 지원사업 심사대상기업 공고 관리자 | 2026-10-20 | 287 관리자 2026-10-20 287",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2359,7 +2359,7 @@
       "region": "충남 전체",
       "title": "도청 MG동행 사회연대경제조직 특례보증대출 안내",
       "url": "https://www.cnse.kr/app/board/view?code=2392&md_id=center_news",
-      "excerpt": "공지 도청 MG동행 사회연대경제조직 특례보증대출 안내 도청 MG동행 사회연대경제조직 특례보증대출 안내 관리자 | 2026-10-01 | 548 관리자 2026-10-01 548",
+      "excerpt": "공지 도청 MG동행 사회연대경제조직 특례보증대출 안내 도청 MG동행 사회연대경제조직 특례보증대출 안내 관리자 | 2026-10-01 | 555 관리자 2026-10-01 555",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2371,7 +2371,7 @@
       "region": "충남 전체",
       "title": "교육 2026년 사회적가치지표(SVI) 맞춤형 컨설팅 참여기업 모집",
       "url": "https://www.cnse.kr/app/board/view?code=2305&md_id=center_news",
-      "excerpt": "공지 교육 2026년 사회적가치지표(SVI) 맞춤형 컨설팅 참여기업 모집 교육 2026년 사회적가치지표(SVI) 맞춤형 컨설팅 참여기업 모집 운영자 | 2026-04-29 | 1,572 운영자 2026-04-29 1,572",
+      "excerpt": "공지 교육 2026년 사회적가치지표(SVI) 맞춤형 컨설팅 참여기업 모집 교육 2026년 사회적가치지표(SVI) 맞춤형 컨설팅 참여기업 모집 운영자 | 2026-04-29 | 1,575 운영자 2026-04-29 1,575",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2383,7 +2383,7 @@
       "region": "충남 전체",
       "title": "공고 2026 충남 사회적경제 혁신타운 투어 프로그램 참여기관·단체 모집 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2272&md_id=center_news",
-      "excerpt": "공지 공고 2026 충남 사회적경제 혁신타운 투어 프로그램 참여기관·단체 모집 공고 공고 2026 충남 사회적경제 혁신타운 투어 프로그램 참여기관·단체 모집 공고 운영자 | 2026-03-11 | 911 운영자 2026-03-11 911",
+      "excerpt": "공지 공고 2026 충남 사회적경제 혁신타운 투어 프로그램 참여기관·단체 모집 공고 공고 2026 충남 사회적경제 혁신타운 투어 프로그램 참여기관·단체 모집 공고 운영자 | 2026-03-11 | 913 운영자 2026-03-11 913",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2395,7 +2395,7 @@
       "region": "충남 전체",
       "title": "공고 2026 경영지원 플랫폼 씨앗 컨설팅 참여기업 모집공고",
       "url": "https://www.cnse.kr/app/board/view?code=2271&md_id=center_news",
-      "excerpt": "공지 공고 2026 경영지원 플랫폼 씨앗 컨설팅 참여기업 모집공고 공고 2026 경영지원 플랫폼 씨앗 컨설팅 참여기업 모집공고 운영자 | 2026-03-11 | 1,753 운영자 2026-03-11 1,753",
+      "excerpt": "공지 공고 2026 경영지원 플랫폼 씨앗 컨설팅 참여기업 모집공고 공고 2026 경영지원 플랫폼 씨앗 컨설팅 참여기업 모집공고 운영자 | 2026-03-11 | 1,761 운영자 2026-03-11 1,761",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2407,7 +2407,7 @@
       "region": "충남 전체",
       "title": "도청 충남 사회적경제 혁신타운 입주자 모집 공고(상시)",
       "url": "https://www.cnse.kr/app/board/view?code=2254&md_id=center_news",
-      "excerpt": "공지 도청 충남 사회적경제 혁신타운 입주자 모집 공고(상시) 도청 충남 사회적경제 혁신타운 입주자 모집 공고(상시) 관리자 | 2026-01-16 | 1,388 관리자 2026-01-16 1,388",
+      "excerpt": "공지 도청 충남 사회적경제 혁신타운 입주자 모집 공고(상시) 도청 충남 사회적경제 혁신타운 입주자 모집 공고(상시) 관리자 | 2026-01-16 | 1,394 관리자 2026-01-16 1,394",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2419,7 +2419,7 @@
       "region": "충남 전체",
       "title": "행사 전국광역시도사회연대경제지원센터협의회 창립기념 컨퍼런스",
       "url": "https://www.cnse.kr/app/board/view?code=2423&md_id=center_news",
-      "excerpt": "732 행사 전국광역시도사회연대경제지원센터협의회 창립기념 컨퍼런스 행사 전국광역시도사회연대경제지원센터협의회 창립기념 컨퍼런스 운영자 | 2026-11-24 | 85 운영자 2026-11-24 85",
+      "excerpt": "732 행사 전국광역시도사회연대경제지원센터협의회 창립기념 컨퍼런스 행사 전국광역시도사회연대경제지원센터협의회 창립기념 컨퍼런스 운영자 | 2026-11-24 | 92 운영자 2026-11-24 92",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2431,7 +2431,7 @@
       "region": "충남 전체",
       "title": "공고 사회연대경제 청년 일경험 시범사업 6차 참여기업 모집 수정 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2420&md_id=center_news",
-      "excerpt": "731 공고 사회연대경제 청년 일경험 시범사업 6차 참여기업 모집 수정 공고 공고 사회연대경제 청년 일경험 시범사업 6차 참여기업 모집 수정 공고 운영자 | 2026-11-19 | 501 운영자 2026-11-19 501",
+      "excerpt": "731 공고 사회연대경제 청년 일경험 시범사업 6차 참여기업 모집 수정 공고 공고 사회연대경제 청년 일경험 시범사업 6차 참여기업 모집 수정 공고 운영자 | 2026-11-19 | 515 운영자 2026-11-19 515",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2443,7 +2443,7 @@
       "region": "충남 전체",
       "title": "도청 2026년 제2차 충청남도 예비사회적기업 지정 공고",
       "url": "https://www.cnse.kr/app/board/view?code=2419&md_id=center_news",
-      "excerpt": "730 도청 2026년 제2차 충청남도 예비사회적기업 지정 공고 도청 2026년 제2차 충청남도 예비사회적기업 지정 공고 운영자 | 2026-11-19 | 156 운영자 2026-11-19 156",
+      "excerpt": "730 도청 2026년 제2차 충청남도 예비사회적기업 지정 공고 도청 2026년 제2차 충청남도 예비사회적기업 지정 공고 운영자 | 2026-11-19 | 161 운영자 2026-11-19 161",
       "published": null,
       "starts": null,
       "deadline": null
@@ -2672,6 +2672,126 @@
       "title": "[결과] 2026 충남 천안 복합형 스타트업파크 신규기업(공유오피스, 협력기관, 회원기관)… N 새글",
       "url": "https://ccon.kr/bbs/board.php?bo_table=bsnt&wr_id=2130",
       "excerpt": "결과 [결과] 2026 충남 천안 복합형 스타트업파크 신규기업(공유오피스, 협력기관, 회원기관)… N 새글 작성자 충남콘텐츠진흥원 2026-11-27",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "6c560f6aadfe7fe3f8f34937",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 공고 제2026-4128호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=82005&no=257",
+      "excerpt": "463 아산시 공고 제2026-4128호 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 공고 노인복지과 2026-11-27 2026-11-27 ~ 2026-12-24",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "9fa8023ff26a25ce70bd7ba8",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 공고 제2026-4140호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=82021&no=257",
+      "excerpt": "462 아산시 공고 제2026-4140호 게임제공업소 행정처분 공고 문화예술과 2026-11-27 2026-11-27 ~ 2027-03-31",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "b670ed9cf7b42ff78ac8a6d3",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 고시 제2026-383호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=82013&no=257",
+      "excerpt": "461 아산시 고시 제2026-383호 주택건설사업계획 변경승인 고시 [용화동 423번지 일원, 우민종합건설(주)→다이아디앤더블유(주)] 공동주택과 2026-11-27",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "0899062fa0d2e7e3b1f13fa2",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 공고 제2026-4158호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=82053&no=257",
+      "excerpt": "460 아산시 공고 제2026-4158호 무연고 사망자 연고자 확인 공시송달 공고 사회복지과 2026-11-27 2026-11-27 ~ 2026-12-11",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "bb4d7e5c6eeebb962d51d593",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 온양6동 공고 제2026-63호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=81997&no=257",
+      "excerpt": "459 아산시 온양6동 공고 제2026-63호 2026년 민방위 교육훈련(집합교육 보충3차) 통지서 반송에 따른 공시송달 공고 온양6동 2026-11-27 2026-11-27 ~ 2026-12-11",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "af24d45f764978ad943f57ea",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 공고 제2026-4110호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=81975&no=257",
+      "excerpt": "458 아산시 공고 제2026-4110호 무단방치 자동차 자진처리명령 공시송달 공고[37어8925, 82루8008, 미상이륜차] 교통행정과 2026-11-27 2026-11-27 ~ 2026-12-14",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "9cb09625270ea955be098d89",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 공고 제2026-4114호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=81983&no=257",
+      "excerpt": "457 아산시 공고 제2026-4114호 무단방치 자동차 강제처리(폐차) 및 이해관계인 권리행사 공고[26거6465, 150너9304, 822소9158, 51버3348] 교통행정과 2026-11-27 2026-11-27 ~ 2026-12-11",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "8293e7e68c0cc1f5881b7df4",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 온양4동 공고 제2026-52호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=82040&no=257",
+      "excerpt": "456 아산시 온양4동 공고 제2026-52호 주민등록 무단전출자 최고 공고 온양4동 2026-11-27 2026-11-27 ~ 2026-12-04",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "795a5070fb92284d099a8429",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 온양5동 공고 제2026-80호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=82046&no=257",
+      "excerpt": "455 아산시 온양5동 공고 제2026-80호 2027년 온양5동 주민자치센터 강사 공개 모집 서류전형 합격자 및 면접시험 시행계획 공고 온양5동 2026-11-27 2026-11-27 ~ 2026-12-18",
+      "published": "2026-11-27",
+      "starts": null,
+      "deadline": null
+    },
+    {
+      "id": "a8912aded27586eee66eb9d9",
+      "sourceId": "s36",
+      "sourceName": "아산시청",
+      "region": "아산",
+      "title": "아산시 공고 제2026-4154호",
+      "url": "https://asan.go.kr/main/cms/?m_mode=view&mgt_no=82045&no=257",
+      "excerpt": "454 아산시 공고 제2026-4154호 관세청 체납처분 위탁 통지서 반송분 공시송달 징수과 2026-11-27 2026-11-27 ~ 2026-12-11",
       "published": "2026-11-27",
       "starts": null,
       "deadline": null
@@ -3029,9 +3149,9 @@
       "sourceId": "s9",
       "sourceName": "씨앗 — 사회적경제 지원정보",
       "region": "충남 전체",
-      "title": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 D-22 마감일 2026-12-20 교육/행사/네트워크 기타지원/공고 [충청남도 가족센터] 가족친화 기업과 함께하는 가족문화 체험 프로그램 신청 안내 등록일 2026-02-02 충청남도가족센터 조회 1,722",
+      "title": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 D-22 마감일 2026-12-20 교육/행사/네트워크 기타지원/공고 [충청남도 가족센터] 가족친화 기업과 함께하는 가족문화 체험 프로그램 신청 안내 등록일 2026-02-02 충청남도가족센터 조회 1,727",
       "url": "https://seeat.cnse.kr/app/informed_source/view?category_code=202&code=14928&md_id=informed_source&mode=deadline&recruit=open",
-      "excerpt": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 D-22 마감일 2026-12-20 교육/행사/네트워크 기타지원/공고 [충청남도 가족센터] 가족친화 기업과 함께하는 가족문화 체험 프로그램 신청 안내 등록일 2026-02-02 충청남도가족센터 조회 1,722",
+      "excerpt": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 D-22 마감일 2026-12-20 교육/행사/네트워크 기타지원/공고 [충청남도 가족센터] 가족친화 기업과 함께하는 가족문화 체험 프로그램 신청 안내 등록일 2026-02-02 충청남도가족센터 조회 1,727",
       "published": "2026-02-02",
       "starts": null,
       "deadline": null
@@ -3041,9 +3161,9 @@
       "sourceId": "s9",
       "sourceName": "씨앗 — 사회적경제 지원정보",
       "region": "충남 전체",
-      "title": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 상시 기타지원/공고 (한국디자인진흥원) 사회적기업 디자인사업 디자이너 pool 모집 등록일 2023-06-28 운영자 조회 2,067",
+      "title": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 상시 기타지원/공고 (한국디자인진흥원) 사회적기업 디자인사업 디자이너 pool 모집 등록일 2023-06-28 운영자 조회 2,069",
       "url": "https://seeat.cnse.kr/app/informed_source/view?category_code=202&code=2779&md_id=informed_source&mode=deadline&recruit=open",
-      "excerpt": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 상시 기타지원/공고 (한국디자인진흥원) 사회적기업 디자인사업 디자이너 pool 모집 등록일 2023-06-28 운영자 조회 2,067",
+      "excerpt": "예비창업/육성사업팀 외 4건 예비창업/육성사업팀 (예비)사회적기업 (예비)마을기업 (사회적)협동조합 자활기업/사업단 상시 기타지원/공고 (한국디자인진흥원) 사회적기업 디자인사업 디자이너 pool 모집 등록일 2023-06-28 운영자 조회 2,069",
       "published": "2023-06-28",
       "starts": null,
       "deadline": null
